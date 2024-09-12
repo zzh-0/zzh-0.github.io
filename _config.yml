@@ -1,10 +1,10 @@
 # Site
 title: Blog
 subtitle: 
-description: 【描述，可以是格言】
+description: ''
 keywords: 
 author: zzh
 language: zh-CN
 timezone: ''
-theme: jekyll-theme-cayman
+theme: jekyll-theme-chirpy
 
