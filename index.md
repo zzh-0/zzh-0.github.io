@@ -1,4 +1,4 @@
-# My Blog Test
+# My Blog on GitHub Pages
 
-[url](test.md)
+[Git操作指南](Git操作指南.md)
 
